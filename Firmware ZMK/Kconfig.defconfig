@@ -1,7 +1,7 @@
-if SHIELD_fine40rev1
+if SHIELD_urielv1
 
 config ZMK_KEYBOARD_NAME
-    default "Uriel"
+    default "uriel"
 
 config I2C
 	default y
