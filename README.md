@@ -29,7 +29,7 @@ Bom
 
 ## 💵 Total Estimated Cost
 
-**$140.59 USD**
+**~$253.69 USD** Somewhere there 
 
 Breakdown:
 - Controllers: $8.68  
