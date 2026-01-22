@@ -9,7 +9,7 @@ Schem-
 Bom
 
 
-# Bill of Materials (BOM) — Custom 47-Key Split Ergo Keyboard
+# Bill of Materials (BOM) — Custom 40% Keybiard
 
 | # | Component | Qty | Description / Specs | Part / Model | Price (USD) | Source / Link | Notes |
 |---|-----------|-----|---------------------|--------------|-------------|----------------|-------|
@@ -45,3 +45,12 @@ Breakdown:
 - Keycaps: $13  
 
 **Grand Total: $140.59**
+<img width="1596" height="941" alt="image" src="https://github.com/user-attachments/assets/57dc7406-0812-49f6-b71a-aee421953f09" />
+<img width="968" height="648" alt="image" src="https://github.com/user-attachments/assets/020119da-70b2-4bdc-ab9e-bf7b6b9217ba" />
+<img width="1713" height="664" alt="image" src="https://github.com/user-attachments/assets/d2aaea32-e1b3-4b85-b8af-255440f2b831" />
+<img width="1213" height="930" alt="image" src="https://github.com/user-attachments/assets/0f6ed40a-818e-45d1-8bce-2f655d51898e" />
+<img width="479" height="894" alt="image" src="https://github.com/user-attachments/assets/bab6701e-d86c-4210-ba01-624c16d9e165" />
+<img width="943" height="569" alt="image" src="https://github.com/user-attachments/assets/7f75dbd4-088c-4ec2-a86e-9c83234d0c97" />
+<img width="1887" height="1027" alt="image" src="https://github.com/user-attachments/assets/368d665e-be73-4d3a-905a-73db43555bc3" />
+<img width="1388" height="663" alt="image" src="https://github.com/user-attachments/assets/f41d01ad-f759-427c-92b4-f8e9bdd86b8f" />
+
