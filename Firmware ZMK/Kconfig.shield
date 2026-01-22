@@ -1,2 +1,0 @@
-config SHIELD_urielv1
-	def_bool $(shields_list_contains,urielv1)
