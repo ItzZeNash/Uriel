@@ -1,7 +1,7 @@
 Fully assembled in fusion 
 For assembly solder on the kalih hotswap sockets, the jst connector which is through hold along with the nice!nano clone which is mounted on the backside of the board flipped. The diodes should also be soldered on the backside with the black line on the side of the sqaure hole.Also connect the battery with the jst connector.  After that put on the orings on the protrusions on the pcb then put it into the case(the case should already have 5 layers put together(the solid base the hollow rings x 3, and the gasket holder, after that lay it onto the gasket holder which will support the pcb, then add the other gasket holder to make sure it holds, then add the top 2 whihc inlude a cutout for the usb, then add screws to fasten the case. After that add the m2 standoffs on the pcb where the controller and the silkscreen is then add it onto the holds then screw onto the small acrylic cover and you are finished.
 <img width="930" height="412" alt="image" src="https://github.com/user-attachments/assets/3db63a51-1b8d-456f-a7ba-7453d8b7d7a3" />
-
+Idk how to do keycaps and nice nano itll be also itll be wayy to complicated for me ._.
 
 # Uriel
 A 40% keyboard 
