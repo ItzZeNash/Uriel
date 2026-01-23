@@ -35,6 +35,7 @@ Bom
 ## 💵 Total Estimated Cost
 
 **~$253.69 USD** Somewhere there 
+Decreased the price with this<img width="1718" height="725" alt="image" src="https://github.com/user-attachments/assets/b43cfd8f-f6ac-4fe0-8375-2afef2467f5b" />
 
 Breakdown:
 - Controllers: $8.68  
